@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "invert",
+    "version": "2020.04.29",
+    "description": "Invert screen colors.",
+    "browser_action": {},
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs",
+        "notifications",
+        "http://*/",
+        "https://*/"
+    ]
+}
