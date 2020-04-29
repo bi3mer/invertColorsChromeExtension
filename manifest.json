@@ -12,6 +12,7 @@
         "tabs",
         "notifications",
         "http://*/",
-        "https://*/"
+        "https://*/",
+        "file://*"
     ]
 }
