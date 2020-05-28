@@ -1,7 +1,4 @@
 // https://stackoverflow.com/a/16239245
-// the css we are going to inject
-console.log("here!");
-
 var css = 'html {-webkit-filter: invert(100%);' +
     '-moz-filter: invert(100%);' + 
     '-o-filter: invert(100%);' + 

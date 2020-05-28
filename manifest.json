@@ -9,8 +9,6 @@
         "persistent": false
     },
     "permissions": [
-        "tabs",
-        "notifications",
         "http://*/",
         "https://*/",
         "file://*"
